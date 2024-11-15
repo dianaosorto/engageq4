@@ -1,0 +1,55 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body{
+	font-family: 'Roboto';
+    color: #FFFFFF;
+	margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+	
+}
+
+h2,h3,h4,h5,h6{
+	color: #303132;
+	}
+
+header{
+	padding: 20px 0;
+	border-bottom: 1px solid #ddd;
+}
+
+
+#hero{
+	background-image: url(	"../img/slider-bg-3.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+	padding: 10% 0;
+	color: #fff;
+}
+
+.btn-primary {
+    background-color:#99cb33;
+    border: none;
+    font-weight: bold;
+}
+#why-choose-us {
+text-align: center;
+    padding: 50px 20px;
+    
+}
+
+.why-choose-us h2 {
+    font-size: 2em;
+    margin-bottom: 0px;
+    color: #212121;
+}
+
+.why-choose-us p {
+    margin-bottom: 0px;
+    color: #808080;
+}
+ 
+
